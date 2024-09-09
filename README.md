@@ -4,7 +4,7 @@
 </a>
 
 ### About Me:
-I am a Full stack engineer with 4 years of experience specializing in the end-to-end development  of enterprise web and mobile applications.
+I am a Software engineer with 4 years of experience specializing in the end-to-end development  of enterprise web and mobile applications.
 <br />
 
 I am looking for a new role.
